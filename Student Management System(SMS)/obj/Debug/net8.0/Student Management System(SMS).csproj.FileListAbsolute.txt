@@ -1,0 +1,17 @@
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Student Management System(SMS).exe
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Student Management System(SMS).deps.json
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Student Management System(SMS).runtimeconfig.json
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Student Management System(SMS).dll
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Student Management System(SMS).pdb
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).AssemblyInfoInputs.cache
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).AssemblyInfo.cs
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).csproj.CoreCompileInputs.cache
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).dll
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\refint\Student Management System(SMS).dll
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).pdb
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).genruntimeconfig.cache
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\ref\Student Management System(SMS).dll
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).csproj.AssemblyReference.cache
+E:\BackEnd\C#\Student Management System(SMS)\Student Management System(SMS)\obj\Debug\net8.0\Student Management System(SMS).csproj.CopyComplete
